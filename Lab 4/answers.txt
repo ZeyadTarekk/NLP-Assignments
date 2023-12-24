@@ -1,0 +1,46 @@
+
+Student 1: Zeyad Tarek Khairy
+Student 2: Asmaa Adel Abdelhamed
+
+Q1:
+
+The number 243 printed above represents the total number of unique words in the provided dataset(the vocabulary size is 243).
+
+
+Q2:
+
+The (300,) printed above represents the dimensionality of the word embedding(300x1).
+
+
+Predicted Country:
+Egypt
+
+Predicted Similarity:
+0.7626820802688599
+
+Q3:
+
+Yes, because the relationship between Athens and Greece(it's capital city) is similar to the 
+relationship between Cairo and Egypt.
+
+
+Q4:
+
+Yes, because the similarity is close to 1, which means that the words Egypt (country2) and Cairo (city2)
+are similar to one another.
+
+
+Computed Accuracy:
+0.9192082407594425
+
+Q5:
+
+Yes
+
+
+Q6:
+
+The words that appear in similar contexts are closer to each other (clustered together).
+Note this model does not take into account the meaning of the words (e.g. happy & sad), 
+it only looks at the context.
+
